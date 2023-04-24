@@ -74,5 +74,4 @@ public class Selenium1 {
                     driver.findElement(By.cssSelector(".alert-warning")).getText());
         });
     }
-
 }
